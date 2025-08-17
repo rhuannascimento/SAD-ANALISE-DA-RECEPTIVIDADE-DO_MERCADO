@@ -1,0 +1,672 @@
+ID CNAE,CNAE,SETOR
+a01113,Cultivo de cereais,agropecuaria
+a01121,Cultivo de algodão herbáceo,agropecuaria
+a01130,Cultivo de cana-de-açúcar,agropecuaria
+a01148,Cultivo de fumo,agropecuaria
+a01156,Cultivo de soja,agropecuaria
+a01164,Cultivo de oleaginosas,agropecuaria
+a01199,Cultivo de outras plantas de lavoura temporária,agropecuaria
+a01211,Horticultura,agropecuaria
+a01229,Cultivo de flores e plantas ornamentais,agropecuaria
+a01318,Cultivo de laranja,agropecuaria
+a01326,Cultivo de uva,agropecuaria
+a01334,Cultivo de frutas de lavoura permanente,agropecuaria
+a01342,Cultivo de café,agropecuaria
+a01351,Cultivo de cacau,agropecuaria
+a01393,Cultivo de outras frutas de lavoura permanente,agropecuaria
+a01415,Produção de sementes certificadas,agropecuaria
+a01423,Produção de mudas,agropecuaria
+a01512,Criação de bovinos,agropecuaria
+a01521,Criação de outros animais de grande porte,agropecuaria
+a01539,Criação de caprinos e ovinos,agropecuaria
+a01547,Criação de suínos,agropecuaria
+a01555,Criação de aves,agropecuaria
+a01598,Criação de outros animais,agropecuaria
+a01610,Atividades de apoio à agricultura,agropecuaria
+a01628,Atividades de apoio à pecuária,agropecuaria
+a01636,Atividades de pós-colheita,agropecuaria
+a01709,Caça,agropecuaria
+a02101,Produção florestal - florestas plantadas,agropecuaria
+a02209,Produção florestal - florestas nativas,agropecuaria
+a02306,Atividades de apoio à produção florestal,agropecuaria
+a03116,Pesca em água salgada,agropecuaria
+a03124,Pesca em água doce,agropecuaria
+a03213,Aqüicultura em água salgada,agropecuaria
+a03221,Aqüicultura em água doce,agropecuaria
+b05003,Extração de carvão mineral,industria
+b06000,Extração de petróleo e gás natural,industria
+b07103,Extração de minério de ferro,industria
+b07219,Extração de minério de alumínio,industria
+b07227,Extração de minério de estanho,industria
+b07235,Extração de minério de manganês,industria
+b07243,Extração de metais preciosos,industria
+b07251,Extração de minerais radioativos,industria
+b07294,Extração de outros minerais metálicos não-ferrosos,industria
+b08100,"Extração de pedra, areia e argila",industria
+b08916,Extração de minerais para fabricação de adubos e fertilizantes,industria
+b08924,Extração e refino de sal marinho,industria
+b08932,Extração de gemas,industria
+b08991,Extração de outros minerais não-metálicos,industria
+b09106,Atividades de apoio à extração de petróleo e gás natural,servicos
+b09904,Atividades de apoio à extração de minerais,servicos
+c10112,Abate de reses,industria
+c10121,Abate de suínos e aves,industria
+c10139,Fabricação de produtos de carne,industria
+c10201,Fabricação de produtos do pescado,industria
+c10317,Fabricação de conservas de frutas,industria
+c10325,Fabricação de conservas de legumes e outros vegetais,industria
+c10333,"Fabricação de sucos de frutas, hortaliças e legumes",industria
+c10414,Fabricação de óleos vegetais em bruto,industria
+c10422,Fabricação de óleos vegetais refinados,industria
+c10431,Fabricação de margarina e outras gorduras vegetais,industria
+c10511,Preparação do leite,industria
+c10520,Fabricação de laticínios,industria
+c10538,Fabricação de sorvetes,industria
+c10619,Fabricação de produtos do arroz,industria
+c10627,Moagem de trigo e fabricação de derivados,industria
+c10635,Fabricação de farinha de mandioca,industria
+c10643,Fabricação de farinha de milho e derivados,industria
+c10651,Fabricação de amidos e óleos de milho,industria
+c10660,Fabricação de alimentos para animais,industria
+c10694,Moagem e fabricação de outros produtos de origem vegetal,industria
+c10716,Fabricação de açúcar em bruto,industria
+c10724,Fabricação de açúcar refinado,industria
+c10813,Torrefação e moagem de café,industria
+c10821,Fabricação de produtos à base de café,industria
+c10911,Fabricação de produtos de panificação,industria
+c10929,Fabricação de biscoitos e bolachas,industria
+c10937,Fabricação de produtos derivados do cacau,industria
+c10945,Fabricação de massas alimentícias,industria
+c10953,Fabricação de especiarias e codimentos,industria
+c10961,Fabricação de alimentos e pratos prontos,industria
+c10996,Fabricação de outros produtos alimentícios,industria
+c11119,Fabricação de bebidas destiladas,industria
+c11127,Fabricação de vinho,industria
+c11135,"Fabricação de malte, cervejas e chopes",industria
+c11216,Fabricação de águas envasadas,industria
+c11224,Fabricação de refrigerantes e de bebidas não-alcoólicas,industria
+c12107,Processamento industrial do fumo,industria
+c12204,Fabricação de produtos do fumo,industria
+c13111,Preparação e fiação de fibras de algodão,industria
+c13120,Preparação e fiação de fibras têxteis naturais,industria
+c13138,Fiação de fibras artificiais e sintéticas,industria
+c13146,Fabricação de linhas para costurar e bordar,industria
+c13219,Tecelagem de fios de algodão,industria
+c13227,Tecelagem de fios de fibras têxteis naturais,industria
+c13235,Tecelagem de fios de fibras artificiais e sintéticas,industria
+c13308,Fabricação de tecidos de malha,industria
+c13405,"Acabamentos em fios, tecidos e artefatos têxteis",industria
+c13511,Fabricação de artefatos têxteis para uso doméstico,industria
+c13529,Fabricação de artefatos de tapeçaria,industria
+c13537,Fabricação de artefatos de cordoaria,industria
+c13545,Fabricação de tecidos especiais,industria
+c13596,Fabricação de outros produtos têxteis,industria
+c14118,Confecção de roupas íntimas,industria
+c14126,Confecção de peças do vestuário,industria
+c14134,Confecção de roupas profissionais,industria
+c14142,Fabricação de acessórios do vestuário,industria
+c14215,Fabricação de meias,industria
+c14223,Fabricação de artigos do vestuário em malharia e tricotagens,industria
+c15106,Curtimento de couro,industria
+c15211,Fabricação de artigos para viagem,industria
+c15297,Fabricação de outros artefatos de couro,industria
+c15319,Fabricação de calçados de couro,industria
+c15327,Fabricação de tênis de qualquer material,industria
+c15335,Fabricação de calçados de material sintético,industria
+c15394,Fabricação de calçados de outros materiais,industria
+c15408,Fabricação de partes para calçados,industria
+c16102,Desdobramento de madeira,industria
+c16218,Fabricação de madeira laminada e de chapas de madeira,industria
+c16226,Fabricação de estruturas de madeira,industria
+c16234,Fabricação de embalagens de madeira,industria
+c16293,Fabricação de artefatos de madeira,industria
+c17109,Fabricação de celulose,industria
+c17214,Fabricação de papel,industria
+c17222,Fabricação de cartolina e papel-cartão,industria
+c17311,Fabricação de embalagens de papel,industria
+c17320,Fabricação de embalagens de cartolina e papel-cartão,industria
+c17338,Fabricação de chapas e de embalagens de papelão ondulado,industria
+c17419,Fabricação de produtos de papel,industria
+c17427,Fabricação de produtos de papel para usos higiênico-sanitário,industria
+c17494,Fabricação de produtos de pastas celulósicas,industria
+c18113,Impressão de jornais e outras publicações periódicas,industria
+c18121,Impressão de material de segurança,industria
+c18130,Impressão de materiais para outros usos,industria
+c18211,Serviços de pré-impressão,servicos
+c18229,Serviços de acabamentos gráficos,servicos
+c18300,Reprodução de materiais gravados,servicos
+c19101,Coquerias,industria
+c19217,Fabricação de produtos do refino de petróleo,industria
+c19225,Fabricação de produtos derivados do petróleo,industria
+c19314,Fabricação de álcool,industria
+c19322,Fabricação de biocombustíveis,industria
+c20118,Fabricação de cloro e álcalis,industria
+c20126,Fabricação de intermediários para fertilizantes,industria
+c20134,Fabricação de adubos e fertilizantes,industria
+c20142,Fabricação de gases industriais,industria
+c20193,Fabricação de outros produtos químicos inorgânicos,industria
+c20215,Fabricação de produtos petroquímicos,industria
+c20223,"Fabricação de intermediários para plastificantes, resinas e fibras",industria
+c20291,Fabricação de outros produtos químicos orgânicos,industria
+c20312,Fabricação de resinas termoplásticas,industria
+c20321,Fabricação de resinas termofixas,industria
+c20339,Fabricação de elastômeros,industria
+c20401,Fabricação de fibras artificiais e sintéticas,industria
+c20517,Fabricação de defensivos agrícolas,industria
+c20525,Fabricação de desinfestantes,industria
+c20614,Fabricação de sabões e detergentes sintéticos,industria
+c20622,Fabricação de produtos de limpeza,industria
+c20631,"Fabricação de cosméticos, perfumaria e higiene pessoal",industria
+c20711,"Fabricação de tintas, vernizes e esmaltes",industria
+c20720,Fabricação de tintas de impressão,industria
+c20738,Fabricação de impermeabilizantes e solventes,industria
+c20916,Fabricação de adesivos e selantes,industria
+c20924,Fabricação de explosivos,industria
+c20932,Fabricação de aditivos de uso industrial,industria
+c20941,Fabricação de catalisadores,industria
+c20991,Fabricação de outros produtos químicos,industria
+c21106,Fabricação de produtos farmoquímicos,industria
+c21211,Fabricação de medicamentos para uso humano,industria
+c21220,Fabricação de medicamentos para uso veterinário,industria
+c21238,Fabricação de produtos farmacêuticos,industria
+c22111,Fabricação de pneumáticos,industria
+c22129,Reforma de pneumáticos usados,industria
+c22196,Fabricação de outros artefatos de borracha,industria
+c22218,Fabricação de laminados planos e tubulares plástico,industria
+c22226,Fabricação de embalagens de material plástico,industria
+c22234,Fabricação de tubos e acessórios de material plástico,industria
+c22293,Fabricação de outros artefatos de material plástico,industria
+c23117,Fabricação de vidro plano,industria
+c23125,Fabricação de embalagens de vidro,industria
+c23192,Fabricação de artigos de vidro,industria
+c23206,Fabricação de cimento,industria
+c23303,Fabricação de artefatos de concreto e materiais semelhantes,industria
+c23419,Fabricação de produtos cerâmicos refratários,industria
+c23427,Fabricação de produtos cerâmicos não-refratários,industria
+c23494,Fabricação de outros produtos cerâmicos não-refratários,industria
+c23915,Aparelhamento e outros trabalhos em pedras,industria
+c23923,Fabricação de cal e gesso,industria
+c23991,Fabricação de outros produtos de minerais não-metálicos,industria
+c24113,Produção de ferro-gusa,industria
+c24121,Produção de ferroligas,industria
+c24211,Produção de semi-acabados de aço,industria
+c24229,Produção de laminados planos de aço,industria
+c24237,Produção de laminados longos de aço,industria
+c24245,"Produção de relaminados, trefilados e perfilados de aço",industria
+c24318,Produção de tubos de aço com costura,industria
+c24393,Produção de outros tubos de ferro e aço,industria
+c24415,Metalurgia do alumínio e suas ligas,industria
+c24423,Metalurgia dos metais preciosos,industria
+c24431,Metalurgia do cobre,industria
+c24491,Metalurgia de outros metais não-ferrosos e suas ligas,industria
+c24512,Fundição de ferro e aço,industria
+c24521,Fundição de metais não-ferrosos e suas ligas,industria
+c25110,Fabricação de estruturas metálicas,industria
+c25128,Fabricação de esquadrias de metal,industria
+c25136,Fabricação de obras de caldeiraria pesada,industria
+c25217,Fabricação de tanques e caldeiras para aquecimento central,industria
+c25225,Fabricação de caldeiras geradoras de vapor,industria
+c25314,Produção de aço e de metais não-ferrosos e suas ligas,industria
+c25322,Produção de artefatos estampados de metal,industria
+c25390,Serviços de usinagem em metais,servicos
+c25411,Fabricação de artigos de cutelaria,industria
+c25420,Fabricação de artigos de serralheria,industria
+c25438,Fabricação de ferramentas,industria
+c25501,Fabricação de armas de fogo e munições,industria
+c25918,Fabricação de embalagens metálicas,industria
+c25926,Fabricação de produtos de trefilados de metal,industria
+c25934,Fabricação de artigos de metal para uso doméstico,industria
+c25993,Fabricação de outros produtos de metal,industria
+c26108,Fabricação de componentes eletrônicos,industria
+c26213,Fabricação de equipamentos de informática,industria
+c26221,Fabricação de periféricos para equipamentos de informática,industria
+c26311,Fabricação de equipamentos transmissores de comunicação,industria
+c26329,Fabricação de aparelhos telefônicos,industria
+c26400,Fabricação de aparelhos de áudio e vídeo,industria
+c26515,"Fabricação de equipamentos de medida, teste e controle",industria
+c26523,Fabricação de cronômetros e relógios,industria
+c26604,Fabricação de aparelhos eletromédicos e eletroterapêuticos,industria
+c26701,Fabricação de equipamentos e instrumentos ópticos,industria
+c26809,Fabricação de mídias magnéticas e ópticas,industria
+c27104,Fabricação de geradores e transformadores,industria
+c27210,Fabricação de pilhas e baterias,industria
+c27228,Fabricação de baterias para automóveis,industria
+c27317,Fabricação de equipamentos para distribuição de energia elétrica,industria
+c27325,Fabricação de material elétrico,industria
+c27333,"Fabricação de fios, cabos e condutores elétricos isolados",industria
+c27406,Fabricação de lâmpadas,industria
+c27511,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar",industria
+c27597,Fabricação de outros aparelhos eletrodomésticos,industria
+c27902,Fabricação de outros equipamentos e aparelhos elétricos,industria
+c28119,Fabricação de motores e turbinas,industria
+c28127,Fabricação de equipamentos hidráulicos e pneumáticos,industria
+c28135,Fabricação de válvulas e registros,industria
+c28143,Fabricação de compressores,industria
+c28151,Fabricação de equipamentos de transmissão,industria
+c28216,Fabricação de equipamentos para instalações térmicas,industria
+c28224,Fabricação de máquinas para transporte de cargas e pessoas,industria
+c28232,Fabricação de máquinas de refrigeração e ventilação,industria
+c28241,Fabricação de equipamentos de ar condicionado,industria
+c28259,Fabricação de máquinas para saneamento,industria
+c28291,Fabricação de máquinas e equipamentos de uso geral,industria
+c28313,Fabricação de tratores agrícolas,industria
+c28321,Fabricação de equipamentos para irrigação agrícola,industria
+c28330,Fabricação de máquinas para a agropecuária,industria
+c28402,Fabricação de máquinas-ferramenta,industria
+c28518,Fabricação de equipamentos para a extração de petróleo,industria
+c28526,Fabricação de outros equipamentos para uso na extração mineral,industria
+c28534,Fabricação de tratores,industria
+c28542,Fabricação de máquinas para terraplenagem,industria
+c28615,Fabricação de máquinas para a indústria metalúrgica,industria
+c28623,"Fabricação de máquinas para as indústrias de alimentos, bebidas e fumo",industria
+c28631,Fabricação de máquinas para a indústria têxtil,industria
+c28640,"Fabricação de máquinas para as indústrias do vestuário, do couro e de calçados",industria
+c28658,Fabricação de máquinas para as indústrias de papel e celulose,industria
+c28666,Fabricação de máquinas para a indústria do plástico,industria
+c28691,Fabricação de outras máquinas e equipamentos para uso industrial específico,industria
+c29107,"Fabricação de automóveis, camionetas e utilitários",industria
+c29204,Fabricação de caminhões e ônibus,industria
+c29301,"Fabricação de cabines, carrocerias e reboques",industria
+c29417,Fabricação de peças e acessórios para o sistema motor de automóveis,industria
+c29425,Fabricação de peças e acessórios para os sistemas de transmissão de automóveis,industria
+c29433,Fabricação de peças e acessórios para o sistema de freios de automóveis,industria
+c29441,Fabricação de peças e acessórios para o sistema de direção e suspensão de automóveis,industria
+c29450,Fabricação de material elétrico e eletrônico para automóveis,industria
+c29492,Fabricação de outras peças e acessórios para automóveis,industria
+c29506,Recondicionamento e recuperação de motores para automóveis,servicos
+c30113,Construção de embarcações e estruturas flutuantes,industria
+c30121,Construção de embarcações para esporte e lazer,industria
+c30318,Fabricação de locomotivas e vagões,industria
+c30326,Fabricação de peças e acessórios para veículos ferroviários,industria
+c30415,Fabricação de aeronaves,industria
+c30423,"Fabricação de turbinas, motores e peças para aeronaves",industria
+c30504,Fabricação de veículos militares de combate,industria
+c30911,Fabricação de motocicletas,industria
+c30920,Fabricação de bicicletas,industria
+c30997,Fabricação de outros equipamentos de transporte,industria
+c31012,Fabricação de móveis de madeira,industria
+c31021,Fabricação de móveis de metal,industria
+c31039,Fabricação de móveis de outros materiais,industria
+c31047,Fabricação de colchões,industria
+c32116,Fabricação de artefatos de ourivesaria e joalheria,industria
+c32124,Fabricação de bijuterias,industria
+c32205,Fabricação de instrumentos musicais,industria
+c32302,Fabricação de artefatos para pesca,industria
+c32400,Fabricação de brinquedos e jogos recreativos,industria
+c32507,Fabricação de instrumentos e materiais para uso médico,industria
+c32914,"Fabricação de escovas, pincéis e vassouras",industria
+c32922,Fabricação de equipamentos para segurança,industria
+c32990,Fabricação de produtos diversos,industria
+c33112,Manutenção de tanques e caldeiras,servicos
+c33121,Manutenção de equipamentos eletrônicos,servicos
+c33139,Manutenção de máquinas e equipamentos elétricos,servicos
+c33147,Manutenção de máquinas e equipamentos da indústria mecânica,servicos
+c33155,Manutenção de veículos ferroviários,servicos
+c33163,Manutenção de aeronaves,servicos
+c33171,Manutenção de embarcações,servicos
+c33198,Manutenção de outros equipamentos e produtos,servicos
+c33210,Instalação de máquinas e equipamentos industriais,servicos
+c33295,Instalação de outros equipamentos,servicos
+d35115,Geração de energia elétrica,industria
+d35123,Transmissão de energia elétrica,servicos
+d35131,Atacado de energia elétrica,comercio
+d35140,Distribuição de energia elétrica,servicos
+d35204,Produção e distribuição de gás,industria
+d35301,"Produção e distribuição de vapor, água quente e ar condicionado",industria
+e36006,"Captação, tratamento e distribuição de água",servicos
+e37011,Gestão de redes de esgoto,servicos
+e37029,Atividades relacionadas a esgoto,servicos
+e38114,Coleta de resíduos não-perigosos,servicos
+e38122,Coleta de resíduos perigosos,servicos
+e38211,Tratamento e disposição de resíduos não-perigosos,servicos
+e38220,Tratamento de resíduos perigosos,servicos
+e38319,Recuperação de materiais metálicos,industria
+e38327,Recuperação de materiais plásticos,industria
+e38394,Recuperação de outros materiais,industria
+e39005,Outros serviços de gestão de resíduos,servicos
+f41107,Incorporação de empreendimentos imobiliários,construcao
+f41204,Construção de edifícios,construcao
+f42111,Construção de rodovias e ferrovias,construcao
+f42120,Construção de obras-de-arte,construcao
+f42138,Obras de urbanização,construcao
+f42219,Obras para geração e distribuição de energia elétrica,construcao
+f42227,Construção de redes de água e esgoto,construcao
+f42235,Construção de redes de transportes por duto,construcao
+f42910,"Obras portuárias, marítimas e fluviais",construcao
+f42928,Montagem de instalações industriais e de estruturas metálicas,construcao
+f42995,Outras obras de engenharia civil,construcao
+f43118,Demolição e preparação de canteiros de obras,construcao
+f43126,Perfurações e sondagens,construcao
+f43134,Obras de terraplenagem,construcao
+f43193,Outros serviços de preparação do terreno,construcao
+f43215,Instalações elétricas,construcao
+f43223,Instalações hidráulicas e de sistemas de refrigeração,construcao
+f43291,Outras obras de instalações em construções,construcao
+f43304,Obras de acabamento,construcao
+f43916,Obras de fundações,construcao
+f43991,Outros serviços especializados para construção,construcao
+g45111,Varejo e atacado de automóveis,comercio
+g45129,Representantes comerciais de automóveis,comercio
+g45200,Manutenção de automóveis,servicos
+g45307,Comércio de peças e acessórios para automóveis,comercio
+g45412,"Atacado e varejo de motocicletas, peças e acessórios",comercio
+g45421,"Representantes comerciais de motocicletas, peças e acessórios",comercio
+g45439,Manutenção de motocicletas,servicos
+g46117,Representantes comerciais de produtos agrícolas,comercio
+g46125,Representantes comerciais de combustíveis e químicos,comercio
+g46133,Representantes comerciais de material de construção,comercio
+g46141,"Representantes comerciais de máquinas, equipamentos, embarcações e aeronaves",comercio
+g46150,Representantes comerciais de eletrodomésticos e móveis,comercio
+g46168,"Representantes comerciais de têxteis, vestuário, calçados e artigos de viagem",comercio
+g46176,"Representantes comerciais de produtos alimentícios, bebidas e fumo",comercio
+g46184,Representantes comerciais de outros produtos,comercio
+g46192,Representantes comerciais de mercadorias em geral,comercio
+g46214,Atacado de café em grão,comercio
+g46222,Atacado de soja,comercio
+g46231,"Atacado de animais, alimentos para animais e matérias-primas agrícolas",comercio
+g46311,Atacado de leite e laticínios,comercio
+g46320,Atacado de cereais e leguminosas beneficiados,comercio
+g46338,Atacado de hortifrutigranjeiros,comercio
+g46346,Atacado de carnes e pescado,comercio
+g46354,Atacado de bebidas,comercio
+g46362,Atacado de produtos do fumo,comercio
+g46371,Atacado de produtos alimentícios,comercio
+g46397,Atacado de produtos alimentícios em geral,comercio
+g46419,Atacado de tecidos,comercio
+g46427,Atacado de artigos do vestuário,comercio
+g46435,Atacado de calçados e artigos de viagem,comercio
+g46443,Atacado de fármacos para uso humano e veterinário,comercio
+g46451,Atacado de instrumentos e materiais para uso médico,comercio
+g46460,"Atacado de cosméticos, perfumaria e higiene pessoal",comercio
+g46478,Atacato de artigos de escritório e de papelaria,comercio
+g46494,Atacado de equipamentos e artigos de uso doméstico,comercio
+g46516,Atacado de computadores e periféricos,comercio
+g46524,Atacado de componentes eletrônicos e equipamentos de comunicação,comercio
+g46613,Atacado de máquinas e equipamentos para uso agropecuário,comercio
+g46621,"Atacado de máquinas, equipamentos para terraplenagem e construção",comercio
+g46630,Atacado de máquinas e equipamentos para uso industrial,comercio
+g46648,Atacado de equipamentos para uso odonto-médico-hospitalar,comercio
+g46656,Atacado de máquinas e equipamentos para uso comercial,comercio
+g46699,"Atacado de outras máquinas, aparelhos e equipamentos",comercio
+g46711,Atacado de madeira e produtos derivados,comercio
+g46729,Atacado de ferragens e ferramentas,comercio
+g46737,Atacado de material elétrico,comercio
+g46745,Atacado de cimento,comercio
+g46796,Atacado materiais de construção,comercio
+g46818,"Atacado de combustíveis sólidos, líquidos e gasosos",comercio
+g46826,Atacado de GLP,comercio
+g46834,"Atacado de defensivos agrícolas, adubos e fertilizantes",comercio
+g46842,Atacado de produtos químicos e petroquímicos,comercio
+g46851,Atacado de produtos siderúrgicos e metalúrgicos,comercio
+g46869,"Atacado de papel, papelão e embalagens",comercio
+g46877,Atacado de resíduos e sucatas,comercio
+g46893,Atacado de outros produtos intermediários,comercio
+g46915,Atacado de produtos alimentícios,comercio
+g46923,Atacado de insumos agropecuários,comercio
+g46931,Atacado de mercadorias em geral,comercio
+g47113,Hipermercados e supermercados,comercio
+g47121,"Minimercados, mercearias e armazéns",comercio
+g47130,Varejo de mercadorias em geral,comercio
+g47211,"Varejista de produtos de padaria, laticínio e doces",comercio
+g47229,Varejo de carnes e pescados,comercio
+g47237,Varejo de bebidas,comercio
+g47245,Varejo de hortifrutigranjeiros,comercio
+g47296,Varejo de produtos alimentícios em geral,comercio
+g47318,Varejo de combustíveis para automóveis,comercio
+g47326,Varejo de lubrificantes,comercio
+g47415,Varejo de tintas e materiais para pintura,comercio
+g47423,Varejo de material elétrico,comercio
+g47431,Varejo de vidros,comercio
+g47440,Varejo de materiais de construção,comercio
+g47512,Varejo de equipamentos e suprimentos de informática,comercio
+g47521,Varejo de equipamentos de telefonia e comunicação,comercio
+g47539,Varejo de eletrodomésticos e equipamentos de áudio e vídeo,comercio
+g47547,"Varejo de móveis, colchoaria e artigos de iluminação",comercio
+g47555,"Varejo de tecidos e artigos de cama, mesa e banho",comercio
+g47563,Varejo de instrumentos musicais e acessórios,comercio
+g47571,Varejo de peças e acessórios para aparelhos eletroeletrônicos,comercio
+g47598,Varejista de outros artigos de uso doméstico,comercio
+g47610,"Varejo de livros, jornais, revistas e papelaria",comercio
+g47628,"Varejo de discos, CDs, DVDs e fitas",comercio
+g47636,Varejo de artigos recreativos e esportivos,comercio
+g47717,Varejo de fármacos para uso humano e veterinário,comercio
+g47725,"Varejo de cosméticos, perfumaria e higiene pessoal",comercio
+g47733,Varejo de artigos médicos e ortopédicos,comercio
+g47741,Varejo de artigos de óptica,comercio
+g47814,Varejo de artigos do vestuário,comercio
+g47822,Varejo de calçados e artigos de viagem,comercio
+g47831,Varejo de jóias e relógios,comercio
+g47849,Varejo de GLP,comercio
+g47857,Varejo de artigos usados,comercio
+g47890,Varejo de outros produtos novos,comercio
+h49116,Transporte ferroviário de carga,servicos
+h49124,Transporte metroferroviário de passageiros,servicos
+h49213,Transporte rodoviário coletivo de passageiros municipal,servicos
+h49221,Transporte rodoviário coletivo de passageiros intermunicipal,servicos
+h49230,Serviços de Táxi,servicos
+h49248,Transporte escolar,servicos
+h49299,Outros transportes rodoviários de passageiros,servicos
+h49302,Transporte rodoviário de carga,servicos
+h49400,Transporte dutoviário,servicos
+h49507,"Trens turísticos, teleféricos e similares",servicos
+h50114,Transporte marítimo de cabotagem,servicos
+h50122,Transporte marítimo de longo curso,servicos
+h50211,Transporte por navegação interior de carga,servicos
+h50220,Transporte por navegação interior de passageiros,servicos
+h50301,Navegação de apoio,servicos
+h50912,Transporte por navegação de travessia,servicos
+h50998,Outros transportes aquaviários,servicos
+h51111,Transporte aéreo de passageiros regular,servicos
+h51129,Transporte aéreo de passageiros não-regular,servicos
+h51200,Transporte aéreo de carga,servicos
+h51307,Transporte espacial,servicos
+h52117,Armazenamento,servicos
+h52125,Carga e descarga,servicos
+h52214,"Concessionárias de rodovias, pontes e túneis",servicos
+h52222,Terminais rodoviários e ferroviários,servicos
+h52231,Estacionamento de veículos,servicos
+h52290,Outras atividades auxiliares de transportes terrestres,servicos
+h52311,Gestão de portos e terminais,servicos
+h52320,Atividades de agenciamento marítimo,servicos
+h52397,Outras atividades auxiliares dos transportes aquaviários,servicos
+h52401,Atividades auxiliares dos transportes aéreos,servicos
+h52508,Atividades relacionadas à transporte de carga,servicos
+h53105,Atividades de Correio,servicos
+h53202,Atividades de malote e de entrega,servicos
+i55108,Hotéis e similares,servicos
+i55906,Outros tipos de alojamento,servicos
+i56112,Restaurantes,servicos
+i56121,Serviços ambulantes de alimentação,servicos
+i56201,Serviços de catering e bufê,servicos
+j58115,Edição de livros,servicos
+j58123,Edição de jornais,servicos
+j58131,Edição de revistas,servicos
+j58191,Edição de cadastros e outros produtos gráficos,servicos
+j58212,Impressão de livros,industria
+j58221,Impressão de jornais,industria
+j58239,Impressão de revistas,industria
+j58298,"Edição de cadastros, listas e outros produtos gráficos",servicos
+j59111,"Produção cinematográfica, de vídeos e de programas de televisão",servicos
+j59120,Atividades de pós-produção cinematográfica,servicos
+j59138,Distribuição cinematográfica,servicos
+j59146,Atividades de exibição cinematográfica,servicos
+j59201,Atividades de gravação de som e de edição de música,servicos
+j60101,Atividades de rádio,servicos
+j60217,Atividades de televisão aberta,servicos
+j60225,Programadoras de televisão por assinatura,servicos
+j61108,Telecomunicações por fio,servicos
+j61205,Telecomunicações sem fio,servicos
+j61302,Telecomunicações por satélite,servicos
+j61418,Televisão por assinatura por cabo,servicos
+j61426,Televisão por assinatura por microondas,servicos
+j61434,Televisão por assinatura por satélite,servicos
+j61906,Outras atividades de telecomunicações,servicos
+j62015,Desenvolvimento de programas de computador sob encomenda,servicos
+j62023,Desenvolvimento softwares customizáveis,servicos
+j62031,Desenvolvimento softwares não-customizáveis,servicos
+j62040,Consultoria em TI,servicos
+j62091,Suporte técnico em tecnologia da informação,servicos
+j63119,Serviços de hospedagem na internet,servicos
+j63194,Provedores de conteúdo na internet,servicos
+j63917,Agências de notícias,servicos
+j63992,Outras atividades de prestação de serviços de informação,servicos
+k64107,Banco Central,servicos
+k64212,Bancos comerciais,servicos
+k64221,"Bancos múltiplos, com carteira comercial",servicos
+k64239,Caixas econômicas,servicos
+k64247,Crédito cooperativo,servicos
+k64310,"Bancos múltiplos, sem carteira comercial",servicos
+k64328,Bancos de investimento,servicos
+k64336,Bancos de desenvolvimento,servicos
+k64344,Agências de fomento,servicos
+k64352,Crédito imobiliário,servicos
+k64361,Financeiras,servicos
+k64379,Sociedades de crédito ao microempreendedor,servicos
+k64387,Bancos de câmbio,servicos
+k64409,Arrendamento mercantil,servicos
+k64506,Sociedades de capitalização,servicos
+k64611,Holdings de instituições financeiras,servicos
+k64620,Holdings de instituições não-financeiras,servicos
+k64638,Outras sociedades de participação,servicos
+k64701,Fundos de investimento,servicos
+k64913,Factoring,servicos
+k64921,Securitização de créditos,servicos
+k64930,Consórcios,servicos
+k64999,Outras atividades de serviços financeiros,servicos
+k65111,Seguros de vida,servicos
+k65120,Seguros não-vida,servicos
+k65201,Seguros-saúde,servicos
+k65308,Resseguros,servicos
+k65413,Previdência complementar fechada,servicos
+k65421,Previdência complementar aberta,servicos
+k65502,Planos de saúde,servicos
+k66118,Bolsas de valores e mercadorias,servicos
+k66126,Corretoras de Títulos de Valores Mobiliários,servicos
+k66134,Administração de cartões de crédito,servicos
+k66193,Serviços financeiros,servicos
+k66215,Avaliação de riscos e perdas,servicos
+k66223,Corretores de seguros,servicos
+k66291,"Seguros, previdência complementar e dos planos de saúde",servicos
+k66304,Administração de fundos por contrato ou comissão,servicos
+l68102,Atividades imobiliárias,servicos
+l68218,"Intermediação na compra, venda e aluguel de imóveis",servicos
+l68226,Gestão de propriedade imobiliária,servicos
+m69117,Atividades jurídicas,servicos
+m69125,Cartórios,servicos
+m69206,Consultoria e auditoria contábil e tributária,servicos
+m70204,Consultorias em gestão empresarial,servicos
+m71111,Serviços de arquitetura,servicos
+m71120,Serviços de engenharia,servicos
+m71197,Arquitetura e engenharia,servicos
+m71201,Testes e análises técnicas,servicos
+m72100,P&D em ciências físicas e naturais,servicos
+m72207,P&D em ciências sociais e humanas,servicos
+m73114,Agências de publicidade,servicos
+m73122,Agenciamento de espaços para publicidade,servicos
+m73190,Outras atividades de publicidade,servicos
+m73203,Pesquisas de mercado e de opinião pública,servicos
+m74102,Design e decoração de interiores,servicos
+m74200,Atividades fotográficas e similares,servicos
+m74901,"Outras atividades profissionais, científicas e técnicas",servicos
+m75001,Atividades veterinárias,servicos
+n77110,Locação de automóveis,servicos
+n77195,Locação de outros meios de transporte,servicos
+n77217,Aluguel de equipamentos recreativos e esportivos,servicos
+n77225,"Aluguel de fitas de vídeo, DVDs e similares",servicos
+n77233,Aluguel de objetos do vestuário,servicos
+n77292,Aluguel de outros objetos pessoais e domésticos,servicos
+n77314,Aluguel de máquinas e equipamentos agrícolas,servicos
+n77322,Aluguel de máquinas e equipamentos para construção,servicos
+n77331,Aluguel de equipamentos para escritório,servicos
+n77390,Aluguel de outras máquinas e equipamentos,servicos
+n77403,Gestão de ativos intangíveis não-financeiros,servicos
+n78108,Seleção e agenciamento de mão-de-obra,servicos
+n78205,Locação de mão-de-obra temporária,servicos
+n78302,Gestão de recursos humanos para terceiros,servicos
+n79112,Agências de viagens,servicos
+n79121,Operadores turísticos,servicos
+n79902,Serviços de reservas e outros serviços de turismo,servicos
+n80111,Atividades de vigilância e segurança privada,servicos
+n80129,Atividades de transporte de valores,servicos
+n80200,Atividades de monitoramento de sistemas de segurança,servicos
+n80307,Atividades de investigação particular,servicos
+n81117,Serviços para apoio a edifícios,servicos
+n81125,Condomínios prediais,servicos
+n81214,Limpeza em prédios e em domicílios,servicos
+n81222,Imunização e controle de pragas urbanas,servicos
+n81290,Outras atividades de limpeza,servicos
+n81303,Atividades paisagísticas,servicos
+n82113,Serviços de escritório,servicos
+n82199,Serviços especializados de apoio administrativo,servicos
+n82202,Teleatendimento,servicos
+n82300,Atividades de organização de eventos,servicos
+n82911,Atividades de cobrança,servicos
+n82920,Envasamento e empacotamento sob contrato,servicos
+n82997,Outras atividades de serviços prestados às empresas,servicos
+o84116,Administração pública em geral,servicos
+o84124,Regulação de serviços públicos,servicos
+o84132,Regulação de atividades econômicas,servicos
+o84213,Relações exteriores,servicos
+o84221,Defesa,servicos
+o84230,Justiça,servicos
+o84248,Segurança e ordem pública,servicos
+o84256,Defesa Civil,servicos
+o84302,Seguridade social obrigatória,servicos
+p85112,Educação infantil - creche,servicos
+p85121,Educação infantil - pré-escola,servicos
+p85139,Ensino fundamental,servicos
+p85201,Ensino médio,servicos
+p85317,Educação superior - graduação,servicos
+p85325,Educação superior - graduação e pós-graduação,servicos
+p85333,Educação superior - pós-graduação e extensão,servicos
+p85414,Educação profissional,servicos
+p85422,Educação de nível tecnológico,servicos
+p85503,Atividades de apoio à educação,servicos
+p85911,Ensino de esportes,servicos
+p85929,Ensino de arte e cultura,servicos
+p85937,Ensino de idiomas,servicos
+p85996,Outras atividades de ensino,servicos
+q86101,Atendimento hospitalar,servicos
+q86216,Serviços móveis de atendimento a urgências,servicos
+q86224,Serviços de remoção de pacientes,servicos
+q86305,Atenção ambulatorial,servicos
+q86402,Serviços diagnóstico e terapia,servicos
+q86500,Atividades de outros profissionais da área de saúde,servicos
+q86607,Atividades de apoio à gestão de saúde,servicos
+q86909,Outras atividades de atenção à saúde humana,servicos
+q87115,Assistência a idosos e convalescentes prestadas em residências,servicos
+q87123,Assistência a paciente no domicílio,servicos
+q87204,Assistência psicossocial e à saúde,servicos
+q87301,Assistência social prestadas em residências,servicos
+q88006,Serviços de assistência social sem alojamento,servicos
+r90019,Artes cênicas e espetáculos,servicos
+r90027,Criação artística,servicos
+r90035,Gestão de espaços para atividades artísticas,servicos
+r91015,Biblioteca e arquivos,servicos
+r91023,"Museus, prédios históricos e atrações similares",servicos
+r91031,"Jardins botânicos, zoológicos e parques",servicos
+r92003,Atividades de exploração de jogos de azar,servicos
+r93115,Gestão de instalações de esportes,servicos
+r93123,"Clubes sociais, esportivos e similares",servicos
+r93131,Atividades de condicionamento físico,servicos
+r93191,Outras atividades esportivas,servicos
+r93212,Parques de diversão e parques temáticos,servicos
+r93298,Outras atividades de recreação e lazer,servicos
+s94111,Associações patronais e empresariais,servicos
+s94120,Associações profissionais,servicos
+s94201,Organizações sindicais,servicos
+s94308,Associações de defesa de direitos sociais,servicos
+s94910,Organizações religiosas,servicos
+s94928,Organizações políticas,servicos
+s94936,Associativas ligadas à cultura e à arte,servicos
+s94995,Outras associações,servicos
+s95118,Manutenção de computadores e periféricos,servicos
+s95126,Manutenção de equipamentos de comunicação,servicos
+s95215,Manutenção de equipamentos eletroeletrônicos,servicos
+s95291,Manutenção de objetos e equipamentos domésticos,servicos
+s96017,Lavanderias e tinturarias,servicos
+s96025,Cabeleireiros,servicos
+s96033,Atividades funerárias,servicos
+s96092,Outras atividades de serviços pessoais,servicos
+t97005,Serviços domésticos,servicos
+u99008,Organismos internacionais,servicos

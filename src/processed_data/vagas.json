@@ -1,0 +1,30 @@
+{
+    "2019": {
+        "servicos": 382525,
+        "comercio": 145475,
+        "industria": 18341,
+        "construcao": 71115,
+        "agropecuaria": 14.366
+    },
+    "2020": {
+        "servicos": -132584,
+        "comercio": 5875,
+        "industria": 95588,
+        "construcao": 112174,
+        "agropecuaria": 61637
+    },
+    "2021": {
+        "servicos": 1226026,
+        "comercio": 643754,
+        "industria": 475141,
+        "construcao": 244755,
+        "agropecuaria": 140927
+    },
+    "2022": {
+        "servicos": 1155370,
+        "comercio": 352792,
+        "industria": 251868,
+        "construcao": 200613,
+        "agropecuaria": 57436    
+    }
+}

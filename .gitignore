@@ -1,0 +1,3 @@
+.venv/*
+src/raw_data/rais-combinado.csv
+src/raw_data/rais_com_cnaes_setor.csv
