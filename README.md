@@ -104,3 +104,27 @@ Observação: os scripts aceitam argumentos CLI (veja `--help` em cada script) e
 - Os scripts foram desenvolvidos para processar arquivos grandes com baixo uso de memória: leitura em streaming e agregação por chaves (ano,setor).
 - Os identificadores das colunas são detectados com tolerância (nomes com/sem acentos, variações maiúsculas/minúsculas).
 - Números aceitam formatos com `.` e `,` (milhar/decimal) e tentam recuperar o valor quando possível.
+
+
+# Streamlit Dashboard — Índice de Receptividade do Mercado
+
+Como executar:
+
+1. Crie (ou ative) um ambiente virtual e instale dependências:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate    # no Windows (Git Bash / WSL use): source .venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+2. Rode o dashboard:
+
+```bash
+cd src
+streamlit run src/app.py
+```
+
+Observações:
+- O app espera encontrar `processed_data/indicie_de_receptividade_do_mercado.csv` dentro da pasta `src`.
+- Os pesos x,y,z podem ser ajustados na barra lateral; há opção para usar colunas já normalizadas quando disponíveis.
