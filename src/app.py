@@ -123,6 +123,34 @@ def main():
         )
         st.plotly_chart(fig_line, use_container_width=True)
 
+    # Gráficos adicionais: empregabilidade e salário mediana (séries históricas)
+    st.markdown("## Séries históricas — Empregabilidade e Salário")
+    col_emp, col_sal = st.columns(2)
+
+    with col_emp:
+        st.subheader("Empregabilidade por Setor")
+        fig_emp = px.line(
+            df[df["setor"].isin(sel_setor)],
+            x="ano",
+            y="empregabilidade",
+            color="setor",
+            markers=True,
+            labels={"empregabilidade": "Empregabilidade", "ano": "Ano"},
+        )
+        st.plotly_chart(fig_emp, use_container_width=True)
+
+    with col_sal:
+        st.subheader("Salário Mediana por Setor")
+        fig_sal = px.line(
+            df[df["setor"].isin(sel_setor)],
+            x="ano",
+            y="salario_mediana",
+            color="setor",
+            markers=True,
+            labels={"salario_mediana": "Salário Mediana (R$)", "ano": "Ano"},
+        )
+        st.plotly_chart(fig_sal, use_container_width=True)
+
     with col2:
         st.subheader(f"Ranking — Ano {sel_year}")
         df_year = df_indexed[df_indexed["ano"] == sel_year].sort_values(
